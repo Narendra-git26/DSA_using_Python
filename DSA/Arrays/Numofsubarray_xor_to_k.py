@@ -15,7 +15,7 @@
 # print(count)
 
 # time = O(n)
-# space = O(1) constant space no extra space taken
+# space = O(N) for the hash map to store elements.
 nums = [4,2,2,6,4]
 
 k = 6

@@ -14,7 +14,8 @@
 #             count += 1
 # print(count)
 
-
+# time = O(n)
+# space = O(1) constant space no extra space taken
 nums = [4,2,2,6,4]
 
 k = 6
